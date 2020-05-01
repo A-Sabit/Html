@@ -1,0 +1,97 @@
+body{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1#hello {
+    color: rgb(178, 204, 28);
+    font-size: 70px;
+
+
+}
+
+div.content{
+    width: 50%;
+    display: inline-block;
+    color: yellow;
+    font-size: 25px;
+
+}
+
+p.quote{
+    padding: 1%;
+}
+
+
+html{
+    background: url(image.jpg) center center no-repeat fixed;
+    background-size: cover;
+
+}
+
+#ron{
+    width: 50%;
+    background-color: grey;
+    display: inline-block;
+    font-size: 18px;
+    color: whitesmoke;
+    font-weight: bolder 250;
+
+}
+
+aside ul{
+    font-size: 15px;
+    color: yellow;
+    background-color: black;
+}
+
+
+
+
+
+a.button7 {
+    font-weight: 700;
+
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: rgb(64,199,129);
+    box-shadow: 0 -3px rgb(53,167,110) inset;
+    transition: 0.2s;
+  }
+  a.button7:hover { background: rgb(53, 167, 110); }
+  a.button7:active {
+    background: rgb(33,147,90);
+    box-shadow: 0 3px rgb(33,147,90) inset;
+  }
+
+  a.button8 {
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: rgb(64,199,129);
+    box-shadow: 0 -3px rgb(53,167,110) inset;
+    transition: 0.2s;
+  }
+  a.button8:hover { background: rgb(53, 167, 110); }
+  a.button8:active {
+    background: rgb(33,147,90);
+    box-shadow: 0 3px rgb(33,147,90) inset;
+  }
+
+
+.buttons {
+  width: 50%;
+  display:inline-block;
+  background-color: black;
+  padding: 50px;
+  ;
+  
+}
+
+img{
+  border-radius: 10px;
+  }
